@@ -1,9 +1,8 @@
-streamlit
-tensorflow
-numpy
-Pillow
-opencv-python-headless
-matplotlib
-reportlab
-protobuf
-typing-extensions
+streamlit==1.35.0
+tensorflow==2.15.1
+numpy==1.24.4
+matplotlib==3.8.4
+reportlab==4.1.0
+Pillow==10.3.0
+opencv-python-headless==4.9.0.80
+protobuf==3.20.3
